@@ -84,6 +84,17 @@ VMware | VirtualBox | AWS Console
 
 ---
 
+## EDUCATION
+B.Sc. Information Technology (USA) – Ensign College Anticipated June. 2026
+
+## Certifications
+- Google IT Support - (2024)
+- IT Professional - Ensign College, USA (2025)
+- Technical Support Engineer - Ensign College (2024)
+- TestOut PC Pro | TestOut Network Pro | TestOut Client Pro certifications
+
+---
+
 ## 📄 Resume
 - IT Support CV / Technical Support
 - IT Project Coordinator CV
@@ -94,3 +105,4 @@ Please feel free to reach out via email or linkedIn.
 ## 📬 Contact
 📧 Email: nnokoglain@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/glainnnoko98
+
