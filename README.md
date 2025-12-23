@@ -79,6 +79,8 @@ VMware | VirtualBox | AWS Console
 - User Insights Specialist
 - IT Project Coordinator / Junior Project Manager
 - Customer Technology Support (SaaS)
+- Cloud Support Associate (AWS – Entry Level)
+- Junior Systems Administrator
 
 ---
 
