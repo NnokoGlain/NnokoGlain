@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am an IT professional with over **2 years of experience** in technical support and project coordination, supporting users in remote and onsite environments. I have hands-on experience with **Windows, Linux, Microsoft 365, Active Directory**, and familiarity with **AWS cloud environments**, alongside strong troubleshooting and documentation skills.
 
