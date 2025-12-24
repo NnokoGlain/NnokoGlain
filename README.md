@@ -1,4 +1,4 @@
-# Glain Elambo Nnoko
+# Nnoko Glain Elambo 
 ### IT Support | QA & User Insights | Project Coordination
 
 📍 Bahrain | Open to Remote & International Roles  
