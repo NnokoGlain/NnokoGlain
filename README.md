@@ -88,9 +88,11 @@ VMware | VirtualBox | AWS Console
 B.Sc. Information Technology (USA) – Ensign College Anticipated June. 2026
 
 ## Certifications
-- Google IT Support - (2024)
-- IT Professional - Ensign College, USA (2025)
-- Technical Support Engineer - Ensign College (2024)
+- Google IT Support - (2024) | 🔗 Credential: https://coursera.org/share/c9d6b8d5e05141aaad5b9c1a8ae19004 
+- IT Professional - Ensign College, USA (2025) | 🔗 Credential: https://1drv.ms/b/s!Ai-L1ctgH4JXe7SLUofbIp-Xm1Q?e=CDR0VW
+- Technical Support Engineer - Ensign College (2024) | 🔗 Credential: https://1drv.ms/b/s!Ai-L1ctgH4JXeU6_smbF2_Pf6I4?e=nNEZXK
+- Project Management Professional(PMP) - (2024) | 🔗 Credential: https://1drv.ms/b/s!Ai-L1ctgH4JXfkzNyhFs89lXhQI?e=UbBwei
+- Google Project Management | 🔗 Credential: https://coursera.org/share/2de7e4d9c809df23155bafa957b4cd02
 - TestOut PC Pro | TestOut Network Pro | TestOut Client Pro certifications
 
 ---
